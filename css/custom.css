@@ -1,3 +1,11 @@
+h1 {
+  font-family: 'Archivo Black', sans-serif;
+}
+
+.slide h1 {
+  font-weight: bold;
+}
+
 .iphone-35 {
   margin-bottom: -60%;
 }
